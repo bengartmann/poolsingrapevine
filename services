@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<script data-ad-client="ca-pub-2893285975815129" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+
+<title>Services - PoolsinGrapevine</title>
+</head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/3/w3.css">
+<body>
+
+  <!-- Navigation -->
+  <nav class="w3-bar w3-black">
+    <a href="/" class="w3-button w3-bar-item">Home</a>
+    <a href="/about" class="w3-button w3-bar-item">About</a>
+    <a href="/services" class="w3-button w3-bar-item">Services</a>
+    <a href="/blog" class="w3-button w3-bar-item">Blog</a>
+    <a href="/contact" class="w3-button w3-bar-item">Contact</a>
+  </nav>
+
+
+<style media="screen">
+  #footer{
+    display: table;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+</style>
+
+</body>
+</html>
